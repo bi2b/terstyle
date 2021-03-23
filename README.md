@@ -23,7 +23,7 @@ python terstyle.py
 	Github  : https://github.com/bi2b/
 	Website : https://bibib.my.id/
 	
-	[1] Install font (20)
+	[1] Install font (23)
 	[2] Install theme (89)
 	[3] Install extra keys (4)
 	[4] About
@@ -34,8 +34,9 @@ python terstyle.py
 
 ### Features
 
-+ 90 popular color-schemes.
++ 89 popular themes.
 + 20 powerline patched fonts.
++ 4 helpful extra keys.
 
 ### About
 
