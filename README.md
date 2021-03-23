@@ -35,7 +35,7 @@ python terstyle.py
 ### Features
 
 + 89 popular themes.
-+ 20 powerline patched fonts.
++ 23 powerline patched fonts.
 + 4 helpful extra keys.
 
 ### About
